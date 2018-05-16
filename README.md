@@ -12,7 +12,7 @@ In this code-along lesson, we'll cover nested forms that can create multiple obj
 4. Create a view file that displays the objects back to the user
 5. Create two controller actions that serve up the form and process the data from the form
 
-## Forms That Create Multiple Objects
+## Forms That Create Multiple Objects  
 
 In web apps, we use forms to create objects. When you fill out a form for a dinner reservation on Open Table, you're creating a reservation object. When you upload a photo to Instagram, you're creating an image object.
 
